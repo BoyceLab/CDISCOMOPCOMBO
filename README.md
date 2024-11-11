@@ -68,13 +68,14 @@ OMOP is a common data model primarily used for observational research, organizin
 ---
 
 ## <a name="resources"></a>Resources
-
-- **[PharmaSUG 2022: RWD (OMOP) to SDTM (CDISC): A Primer for Your ETL Journey](https://www.lexjansen.com/pharmasug/2022/RW/PharmaSUG-2022-RW-160.pdf)** - A comprehensive guide on transforming OMOP data into CDISC SDTM format.
+- **[Clinical Data Interchange Standards Consortium (CDISC)](https://www.cdisc.org/)**
+- **[Observational Health Data Sciences and Informatics (OHDSI)](https://www.ohdsi.org/)**
+  
+- **[PharmaSUG 2022: RWD (OMOP) to SDTM (CDISC): A Primer for Your ETL Journey](https://www.lexjansen.com/pharmasug/2022/RW/PharmaSUG-2022-RW-160.pdf)** - A comprehensive guide to transforming OMOP data into CDISC SDTM format.
 - **[BRIDG Model](https://bridgmodel.nci.nih.gov/)** - A reference model linking healthcare and clinical research data.
 - **[Leveraging the OMOP CDMv5 for CDISC SDTM RCT Data](https://www.ohdsi.org/web/wiki/lib/exe/fetch.php?media=projects:workgroups:shyft-ohdsi-poster.pdf)** - Poster on using OMOP CDM to support SDTM-based RCTs.
 - **[From OMOP to CDISC SDTM: Successes, Challenges, and Future Opportunities](https://www.ohdsi.org/wp-content/uploads/2023/10/3-AndersonBriefreport-Wes-Anderson.pdf)** - Insights on using OMOP for CDISC SDTM in COVID-19 research.
 - **[OMOP to CDISC SDTM Mapping Project on GitHub](https://github.com/vojtechhuser/project/tree/master/sdtm-omop)** - GitHub tools and resources for OMOP to CDISC mapping.
-
 ---
 
 ## <a name="summary"></a>Summary
