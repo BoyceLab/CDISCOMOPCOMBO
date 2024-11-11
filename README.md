@@ -14,15 +14,15 @@ This guide provides a step-by-step process for converting OMOP data into the CDI
 
 [Summary](#summary)  
 
-[Extract Data from OMOP](#4-extract-data-from-omop)  
+[Extract Data from OMOP](extract-data-from-omop)  
 
-[Transform Data to CDISC Format](#5-transform-data-to-cdisc-format)  
+[Transform Data to CDISC Format](transform-data-to-cdisc-format)  
 
-[Export Transformed Data to CDISC-Compliant Format](#6-export-transformed-data-to-cdisc-compliant-format)  
+[Export Transformed Data to CDISC-Compliant Format](export-transformed-data-to-cdisc-compliant-format)  
 
-[Additional Code Samples in R, STATA, and SPSS](#7-additional-code-samples-in-r-stata-and-spss)  
+[Additional Code Samples in R, STATA, and SPSS](additional-code-samples-in-r-stata-and-spss)  
 
-[Validate the CDISC Output](#8-validate-the-cdisc-output)  
+[Validate the CDISC Output](validate-the-cdisc-output)  
 
 ---
 
